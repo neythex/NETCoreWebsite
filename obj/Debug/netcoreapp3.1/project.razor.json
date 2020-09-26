@@ -14397,6 +14397,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/neytex/Development/dotnet/Berelas-web/Website/Views/Content/Edit.cshtml",
+      "TargetPath": "Views\\Content\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/neytex/Development/dotnet/Berelas-web/Website/Views/Content/Delete.cshtml",
+      "TargetPath": "Views\\Content\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/neytex/Development/dotnet/Berelas-web/Website/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -14412,8 +14422,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/neytex/Development/dotnet/Berelas-web/Website/Views/Content/Create.cshtml",
+      "TargetPath": "Views\\Content\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/neytex/Development/dotnet/Berelas-web/Website/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/neytex/Development/dotnet/Berelas-web/Website/Views/Content/Details.cshtml",
+      "TargetPath": "Views\\Content\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/neytex/Development/dotnet/Berelas-web/Website/Views/Content/Index.cshtml",
+      "TargetPath": "Views\\Content\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
