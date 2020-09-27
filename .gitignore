@@ -1,5 +1,4 @@
 /.DS_Store
 /.vscode
 /bin
-obj/Debug/netcoreapp3.1/Website.csprojAssemblyReference.cache
-obj/Debug/*
+obj/Debug/
